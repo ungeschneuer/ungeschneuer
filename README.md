@@ -2,7 +2,7 @@
 
 👀 I’m interested in Webdesign and Data Analysis. 
 
-🌱 I’m currently learning Advanced Javascript as step to learning React. 
+🌱 I’m currently learning Advanced Javascript as a step to learning React. 
 
 📫 You can find more about me on my [website](https://schneuer.online).
 
